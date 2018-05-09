@@ -8,23 +8,23 @@
 ## Gift.ONE
 全球最大加密货币空投组织Gift.ONE正在空投Token！
 目前1GIFT = US$0.2，注册即送100GIFT, 加入电报群送100
-[链接](https://gift.one/i/eEUspE)
+* [链接](https://gift.one/i/eEUspE)
 
 ## MNT
 注册即送1000枚MNT, 为推广项目，现联合「空投助手」一起发起糖果空投活动
 无需科学上网加入电报群，只输入ETH地址即可免费领取
-[链接](https://token.air-drop.top/?invite=ev52jdmh&coin=mnt)
+* [链接](https://token.air-drop.top/?invite=ev52jdmh&coin=mnt)
 
 ## AEO
 AEO——基于区块链的全球互助合约平台
 注册送128AEO，邀请无限制，0本金撸百万币！
 AEO是宝二爷在医疗保险领域重点布局项目，是目前最大的互助合约平台！
-[链接](https://candy.air-drop.top/?invite=hrziozal&coin=aeo)
+* [链接](https://candy.air-drop.top/?invite=hrziozal&coin=aeo)
 
 ## NPC -- 需要下载ANDROID APP进行解锁
 注册就送9000枚NPC, 糖果将在NPC上线交易所后予以兑付。（上线交易所初始价0.2元）
 NPC 项目简介：NPC是一个区块链节点提供社区，目的是为全球所有独立区块链项目提供节点资源服务。（所有去中心化的区块链项目都必须要足够的节点支撑）。而全球所有区块链项目都必须要通过NPC来购买节点服务。
-[链接](1aau.com/i/882766146 ) 邀请码:882766146
+* [链接](1aau.com/i/882766146 ) 邀请码:882766146
 
 ## MSToken -- 需要加入电报
 送100个MST。现在貌似可以卖了。
@@ -36,7 +36,7 @@ Ether Universe Quiz 88枚ETU以太宇宙糖果限时空投
 世界首个EOS跨链，海外18万人社区超热项目，5000ETH天使轮额度火速被抢空！
 即将上线全球十大交易所之一。
 进电报群再送88枚ETU，限时空投手慢无！
-[链接]https://etu.link/p/c7b38975.html)
+* [链接]https://etu.link/p/c7b38975.html)
 
 
 # 其它
