@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EOZ 空投"
+title: "EOZ空投"
 date: 2018-05-09 03:38:34
 image: ''
 description:
@@ -9,8 +9,7 @@ tags:
 twitter_text:
 introduction:
 ---
-#EOZ 空投
-```
-http://eoz.one/i/2602677
+EOZ 空投
+> http://eoz.one/i/2602677
 http://eoz.one/i/2622593
-```
+
